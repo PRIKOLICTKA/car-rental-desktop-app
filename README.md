@@ -1,3 +1,4 @@
 # car-rental-desktop-app
 Admin panel
-https://github.com/user-attachments/assets/6d4d65ce-b19f-4f20-80a9-f03579f327bd
+
+https://github.com/user-attachments/assets/55ab2c88-d02c-4082-b930-3dc3b32d2dc9
