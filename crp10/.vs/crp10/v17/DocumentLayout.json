@@ -1,0 +1,873 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\source\\repos\\crp10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|c:\\users\\home\\source\\repos\\crp10\\crp10\\window6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window11.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window11.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window11.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window11.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window18.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window18.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window17.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window17.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window17.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window17.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window16.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window16.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window16.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window16.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window15.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window15.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window15.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window15.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window14.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window14.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window14.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window14.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window13.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window13.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window13.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window13.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window12.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window12.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window12.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window12.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window10.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window10.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window10.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window10.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window9.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window9.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window8.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window8.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window7.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window7.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window9.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window9.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window7.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window7.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window8.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window8.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window21.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window21.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window21.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window21.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window20.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window20.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window20.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window20.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\avtomodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\avtomodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\zayavki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\zayavki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\\u0430\u0440\u0435\u043D\u0434\u0430.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\\u0430\u0440\u0435\u043D\u0434\u0430.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\avtomodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\avtomodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window18.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window18.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window19.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window19.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window19.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window19.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window22.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window22.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|C:\\Users\\Home\\source\\repos\\crp10\\crp10\\window22.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21437860-8894-4535-B68D-F6CDA7A41AAF}|crp10\\crp10.csproj|solutionrelative:crp10\\window22.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\App.xaml",
+              "RelativeDocumentMoniker": "crp10\\App.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\App.xaml",
+              "RelativeToolTip": "crp10\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-19T11:25:14.375Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "crp10\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\MainWindow.xaml",
+              "RelativeToolTip": "crp10\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-19T11:23:42.541Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\MainWindow.xaml.cs",
+              "RelativeToolTip": "crp10\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAmwFAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T11:23:42.092Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window2.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window2.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window2.xaml",
+              "RelativeToolTip": "crp10\\Window2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-19T11:40:18.448Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window2.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window2.xaml.cs",
+              "RelativeToolTip": "crp10\\Window2.xaml.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAqwMIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T11:41:43.227Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window1.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window1.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window1.xaml",
+              "RelativeToolTip": "crp10\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-19T11:24:48.112Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window1.xaml.cs",
+              "RelativeToolTip": "crp10\\Window1.xaml.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAuwMsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:18:08.37Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Window3.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window3.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window3.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window3.xaml",
+              "RelativeToolTip": "crp10\\Window3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T11:22:18.041Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Window3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window3.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window3.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window3.xaml.cs",
+              "RelativeToolTip": "crp10\\Window3.xaml.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAEwIcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:25:56.357Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Window4.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window4.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window4.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window4.xaml",
+              "RelativeToolTip": "crp10\\Window4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T12:55:05.013Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Window4.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window4.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window4.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window4.xaml.cs",
+              "RelativeToolTip": "crp10\\Window4.xaml.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAuwIkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:01:35.569Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Window5.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window5.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window5.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window5.xaml",
+              "RelativeToolTip": "crp10\\Window5.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T14:18:15.039Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Window5.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window5.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window5.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window5.xaml.cs",
+              "RelativeToolTip": "crp10\\Window5.xaml.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAgwH8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T16:02:32.466Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Window6.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window6.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window6.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window6.xaml",
+              "RelativeToolTip": "crp10\\Window6.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-23T14:36:15.115Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window6.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window6.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window6.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window6.xaml.cs",
+              "RelativeToolTip": "crp10\\Window6.xaml.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAmwJAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:02:59.688Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Window7.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window7.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window7.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window7.xaml",
+              "RelativeToolTip": "crp10\\Window7.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-23T15:10:32.745Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Window7.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window7.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window7.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window7.xaml.cs",
+              "RelativeToolTip": "crp10\\Window7.xaml.cs",
+              "ViewState": "AQIAAPIAAAAAAAAAAAA8wA0BAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:24:42.2Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Window8.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window8.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window8.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window8.xaml",
+              "RelativeToolTip": "crp10\\Window8.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-23T15:10:40.473Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Window8.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window8.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window8.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window8.xaml.cs",
+              "RelativeToolTip": "crp10\\Window8.xaml.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAzwOUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:25:02.504Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Window9.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window9.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window9.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window9.xaml",
+              "RelativeToolTip": "crp10\\Window9.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-23T15:10:47.99Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Window9.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window9.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window9.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window9.xaml.cs",
+              "RelativeToolTip": "crp10\\Window9.xaml.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAcwP4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:25:19.056Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Window10.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window10.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window10.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window10.xaml",
+              "RelativeToolTip": "crp10\\Window10.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-23T15:10:54.461Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Window10.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window10.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window10.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window10.xaml.cs",
+              "RelativeToolTip": "crp10\\Window10.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAL0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:25:33.295Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Window12.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window12.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window12.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window12.xaml",
+              "RelativeToolTip": "crp10\\Window12.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T16:02:17.637Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Window12.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window12.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window12.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window12.xaml.cs",
+              "RelativeToolTip": "crp10\\Window12.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:08:56.661Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Window13.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window13.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window13.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window13.xaml",
+              "RelativeToolTip": "crp10\\Window13.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T16:16:58.31Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Window13.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window13.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window13.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window13.xaml.cs",
+              "RelativeToolTip": "crp10\\Window13.xaml.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwCYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:26:00.949Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Window14.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window14.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window14.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window14.xaml",
+              "RelativeToolTip": "crp10\\Window14.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T12:07:30.953Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Window14.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window14.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window14.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window14.xaml.cs",
+              "RelativeToolTip": "crp10\\Window14.xaml.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAwwFkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:39:24.335Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Window15.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window15.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window15.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window15.xaml",
+              "RelativeToolTip": "crp10\\Window15.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T13:14:22.671Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Window15.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window15.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window15.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window15.xaml.cs",
+              "RelativeToolTip": "crp10\\Window15.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:31:35.925Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Window16.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window16.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window16.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window16.xaml",
+              "RelativeToolTip": "crp10\\Window16.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T13:50:19.764Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Window16.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window16.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window16.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window16.xaml.cs",
+              "RelativeToolTip": "crp10\\Window16.xaml.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAiwIcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:27:42.57Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window17.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window17.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window17.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window17.xaml",
+              "RelativeToolTip": "crp10\\Window17.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T15:03:35.917Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window17.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window17.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window17.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window17.xaml.cs",
+              "RelativeToolTip": "crp10\\Window17.xaml.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAwwJoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:11:02.892Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window18.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window18.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window18.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window18.xaml",
+              "RelativeToolTip": "crp10\\Window18.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-31T14:32:48.556Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Window18.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window18.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window18.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window18.xaml.cs",
+              "RelativeToolTip": "crp10\\Window18.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:10:14.956Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Window19.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window19.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window19.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window19.xaml",
+              "RelativeToolTip": "crp10\\Window19.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-31T17:27:00.468Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Window19.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window19.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window19.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window19.xaml.cs",
+              "RelativeToolTip": "crp10\\Window19.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwDIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:04:53.801Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Window20.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window20.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window20.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window20.xaml",
+              "RelativeToolTip": "crp10\\Window20.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T19:09:09.758Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Window20.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window20.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window20.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window20.xaml.cs",
+              "RelativeToolTip": "crp10\\Window20.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwDUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:53:40.248Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Window21.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window21.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window21.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window21.xaml",
+              "RelativeToolTip": "crp10\\Window21.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T13:11:52.771Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Window21.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window21.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window21.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window21.xaml.cs",
+              "RelativeToolTip": "crp10\\Window21.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAlwDEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:47:49.05Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Window22.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window22.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window22.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window22.xaml",
+              "RelativeToolTip": "crp10\\Window22.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T12:32:11.621Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Window22.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window22.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window22.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window22.xaml.cs",
+              "RelativeToolTip": "crp10\\Window22.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwC8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:08:43.2Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window11.xaml",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window11.xaml",
+              "RelativeDocumentMoniker": "crp10\\Window11.xaml",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window11.xaml",
+              "RelativeToolTip": "crp10\\Window11.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T17:38:49.463Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window11.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window11.xaml.cs",
+              "RelativeDocumentMoniker": "crp10\\Window11.xaml.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\Window11.xaml.cs",
+              "RelativeToolTip": "crp10\\Window11.xaml.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:38:54.413Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "\u0410\u0420\u0415\u041D\u0414\u0410.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\\u0410\u0420\u0415\u041D\u0414\u0410.cs",
+              "RelativeDocumentMoniker": "crp10\\\u0410\u0420\u0415\u041D\u0414\u0410.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\\u0410\u0420\u0415\u041D\u0414\u0410.cs",
+              "RelativeToolTip": "crp10\\\u0410\u0420\u0415\u041D\u0414\u0410.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:39:31.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ZAYAVKI.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\ZAYAVKI.cs",
+              "RelativeDocumentMoniker": "crp10\\ZAYAVKI.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\ZAYAVKI.cs",
+              "RelativeToolTip": "crp10\\ZAYAVKI.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA4wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:37:24.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AvtoModel.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\AvtoModel.Context.cs",
+              "RelativeDocumentMoniker": "crp10\\AvtoModel.Context.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\AvtoModel.Context.cs",
+              "RelativeToolTip": "crp10\\AvtoModel.Context.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:20:18.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AvtoModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\AvtoModel.edmx",
+              "RelativeDocumentMoniker": "crp10\\AvtoModel.edmx",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\crp10\\crp10\\AvtoModel.edmx [Diagram1]",
+              "RelativeToolTip": "crp10\\AvtoModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-18T13:24:30.625Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

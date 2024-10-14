@@ -1,0 +1,62 @@
+﻿<Window x:Class="crp10.Window19"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:crp10"
+        mc:Ignorable="d"
+                       Height="360" Width="1080" WindowStyle="None"
+  AllowsTransparency="True" Background="Transparent"  MouseDown="Border_MouseDown" WindowStartupLocation="CenterScreen">
+    <Border Background="White" CornerRadius="30">
+        <Grid>
+            <TextBlock Text="Автомобиль" FontSize="28" FontWeight="SemiBold" 
+                       Margin="20,10,0,305" HorizontalAlignment="Left" Foreground="#121518"/>
+
+            <Separator Height="1" Background="#FFCBCDCE" Margin="0,60,0,299"/>
+
+            <StackPanel Margin="50,80,685,102"  >
+                <Image Source="{Binding Фото}" Stretch="UniformToFill" Width="342" Height="180"/>
+            </StackPanel>
+
+            <TextBlock Margin="132,290,795,47" x:Name="IDBox" FontSize="16" Text="{Binding ID}"/>
+            <TextBlock Margin="50,288,970,40" x:Name="Cfg" FontSize="15"  Text="№ Авто" FontWeight="SemiBold" />
+
+            <TextBlock Margin="465,80,465,230" x:Name="MBox" FontSize="35" Text="{Binding Марка}" FontWeight="SemiBold" />
+
+            <TextBlock Margin="620,80,90,230" x:Name="MoBox" FontSize="35" Text="{Binding Модель}" FontWeight="SemiBold"/>
+
+            <TextBlock Margin="535,156,480,172" x:Name="GBox" FontSize="15" Text="{Binding Год_выпуска}"  />
+            <TextBlock Margin="465,156,555,172" x:Name="Cf" FontSize="15"  Text="Выпуск" FontWeight="SemiBold" />
+
+            <!--<TextBlock Margin="800,156,205,172" x:Name="PemontBox" FontSize="15" Text="{Binding Ремонт}"  />
+            <TextBlock Margin="740,154,280,174" x:Name="RemontBox" FontSize="15"  Text="Ремонт" FontWeight="SemiBold" />-->
+
+            <TextBlock Margin="849,156,30,172" x:Name="CtraxBox" FontSize="15" Text="{Binding Страховка}"  />
+            <TextBlock Margin="766,156,236,172" x:Name="CtraxovkaBox" FontSize="15"  Text="Страховка" FontWeight="SemiBold" />
+
+            <TextBlock Margin="673,156,327,172" x:Name="ClBox" FontSize="15" Text="{Binding Цвет}"  />
+            <TextBlock Margin="620,156,415,172" x:Name="f" FontSize="15"  Text="Цвет" FontWeight="SemiBold" />
+
+            <TextBlock Margin="565,294,306,32" x:Name="NBox" FontSize="18" Text="{Binding Номерной_знак}" />
+            <TextBlock Margin="465,292,539,36" x:Name="Nin" FontSize="20"  Text="Номер" FontWeight="SemiBold" Foreground="#FFB00020" />
+
+            <TextBlock Margin="565,232,306,94" x:Name="VBox" FontSize="18" Text="{Binding VIN_код}" />
+            <TextBlock Margin="465,230,539,98" x:Name="vin" FontSize="20"  Text="VIN код" FontWeight="SemiBold" Foreground="#FFB00020" />
+
+            <TextBlock Margin="875,229,55,97" x:Name="CTCBox" FontSize="18" Text="{Binding Серия_номер_СТС}" />
+            <TextBlock Margin="779,230,225,98" x:Name="STS" FontSize="20"  Text="№ СТС" FontWeight="SemiBold" Foreground="#FFB00020" />
+
+            <TextBlock Margin="875,294,55,32" x:Name="PTCBox" FontSize="18" Text="{Binding Серия_номер_ПТС}" />
+            <TextBlock Margin="779,290,225,38" x:Name="PTS" FontSize="20"  Text="№ ПТС" FontWeight="SemiBold" Foreground="#FFB00020" />
+
+            <Button Margin="1000,10,30,320" x:Name="ExitButton" Style="{StaticResource MaterialDesignFlatButton}"
+materialDesign:ShadowAssist.ShadowDepth="Depth0" Height="30" Width="50"
+ materialDesign:ButtonAssist.CornerRadius="10"
+ FontSize="18" Content="✕"  Foreground="#FFB00020" Click="ExitButton_Click"/>
+
+
+
+        </Grid>
+    </Border>
+</Window>
